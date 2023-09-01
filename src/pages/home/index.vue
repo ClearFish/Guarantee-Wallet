@@ -10,7 +10,7 @@ const count = ref(0)
 
 <template>
 <div class="big_box">
-  <p>担保钱2包</p>
+  <p>担保钱22包</p>
 </div>
 
   
